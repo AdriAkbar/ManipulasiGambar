@@ -230,7 +230,7 @@ namespace ManipulasiGambar
                 this.Cursor = Cursors.Default;
             }
         }
-
+//efek grayscale
         private void menuItemGrayscale_Click(object sender, EventArgs e)
         {
             this.Cursor = Cursors.WaitCursor;
